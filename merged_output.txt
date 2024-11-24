@@ -1,7 +1,7 @@
 更新时间,#genre#
 20241124 09:58:35,https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4
 关于本源(iptv365.org),https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
-每日一首,http://em.21dtv.com/songs/60016491.mkv
+每日一首,http://em.21dtv.com/songs/60016491.mk
 
 
 💓专享源🅰️,#genre#
