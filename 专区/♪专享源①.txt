@@ -49,25 +49,10 @@ AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 靖天电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv061
 
-BestTV全球大片,http://iptv.yjxfz.com:80/tv/play/4/65849643J366N40D/5689EI8401E9E08I$IPV4_源1
-CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
-CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
-CHC影迷电影,http://annaxi.lw-home.com:11111/udp/239.253.254.154:8000
-CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
-CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
-CHC动作电影,http://annaxi.lw-home.com:11111/udp/239.253.254.153:8000
-CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
-CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
-CHC家庭影院,http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000
-
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 PopC,http://free.xiptv.x10.bz/kudou.php?id=38
-Now爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-Now星影,http://205.185.123.236:8899/1/now/stream.m3u8
 緯来电影,http://108.181.20.215:44779
 采昌影剧,https://stream1.freetv.fun/0bc646a16e8318982972d11e7e26b2a38bafee9be98597045b97e82f2e6bf588.ctv
-民视影剧[geo-blocked],https://stream1.freetv.fun/f1e06d8985593a507e164747f8664a5cbfb58622f80655564043f0c427560893.ctv
-民视影剧[geo-blocked],https://stream1.freetv.fun/b2f35b3f2d927ce635628a27c93510bb36ccd082b9692b9dca292e8b5f038504.ctv
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 美亞電影臺,http://149.28.150.229:29191/stream/mytv/mydy/master.m3u8
@@ -75,10 +60,8 @@ Now星影,http://205.185.123.236:8899/1/now/stream.m3u8
 东森电影台,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 东森电影台,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 thrill惊悚,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-爱尔达影剧,http://50.7.234.10:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
 好莱坞电影台,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 好莱坞电影台,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
-
 
 🔁周星星,http://159.75.85.63:35455/huya/11342412
 🔁杰森斯坦森,http://159.75.85.63:35455/huya/21059588
