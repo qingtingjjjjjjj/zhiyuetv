@@ -573,10 +573,10 @@ beijing_time = utc_time + timedelta(hours=8)
 # 格式化为所需的格式
 formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
 
-about_video1="https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4"
-about_video2="https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4"
+about_video1="https://d.kstore.dev/download/8880/公告.mp4"
+about_video2="http://mobi.kuwo.cn/tmevideo/tme1257697.mp4"
 version=formatted_time+","+about_video1
-about="关于本源(iptv365.org),"+about_video2
+about="关于本源(塔利班维护),"+about_video2
 # 瘦身版
 # 
 all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+ ['\n'] +\
