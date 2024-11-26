@@ -1,4 +1,3 @@
-
 邵氏影院,http://120.77.28.4:8648/douyu.php?id=4246519
 凌儿影院,http://120.77.28.4:8648/douyu.php?id=1377142
 漫威影院,http://120.77.28.4:8648/douyu.php?id=6140589
@@ -160,3 +159,13 @@ iHOT爱谍战,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040000000
 iHOT爱历史,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
 iHOT爱科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
 iHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
+
+斗鱼1,http://epg.112114.xyz/douyu/4332
+斗鱼2,http://epg.112114.xyz/douyu/6140589
+斗鱼3,http://epg.112114.xyz/douyu/8770422
+斗鱼4,http://epg.112114.xyz/douyu/747764
+斗鱼5,http://epg.112114.xyz/douyu/52787
+斗鱼6,http://epg.112114.xyz/douyu/36337
+斗鱼7,http://epg.112114.xyz/douyu/8814650
+斗鱼8,http://epg.112114.xyz/douyu/263824
+斗鱼9,http://epg.112114.xyz/douyu/323876
