@@ -86,6 +86,22 @@ iHot欧美影院,http://[2409:8087:5e08:24::11]:6610/000000001000/71852035017695
 电影频道1,http://zby.xjqxz.top/live5/live.m3u8
 电影频道2,http://zby.xjqxz.top/live12/live.m3u8
 电影频道3,http://zby.xjqxz.top/live18/live.m3u8 
+CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
+CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
+CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
+
+CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
+CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
+CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
+
+CHC动作电影,http://124.231.213.16:9999/tsfile/live/1109_1.m3u8
+CHC家庭影院,http://124.231.213.16:9999/tsfile/live/1108_1.m3u8
+CHC影迷电影,http://124.231.213.16:9999/tsfile/live/1110_1.m3u8
+
+CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
+CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
+CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
+
 
 🔁周星星,http://159.75.85.63:35455/huya/11342412
 🔁杰森斯坦森,http://159.75.85.63:35455/huya/21059588
@@ -144,19 +160,4 @@ iHot欧美影院,http://[2409:8087:5e08:24::11]:6610/000000001000/71852035017695
 第二十条TC,https://v.cdnlz12.com/20240215/11572_dda99b8e/2000k/hls/mixed.m3u8
 飞驰人生2TC,https://ikcdn01.ikzybf.com/20240212/jjCpFTXC/2000kb/hls/index.m3u8
 目中无人2,https://yzzy1.play-cdn1.com/20240210/15952_004b2a47/2000k/hls/index.m3u8
-CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
-CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
-CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
-
-CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
-CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
-CHC影迷电影,http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
-
-CHC动作电影,http://124.231.213.16:9999/tsfile/live/1109_1.m3u8
-CHC家庭影院,http://124.231.213.16:9999/tsfile/live/1108_1.m3u8
-CHC影迷电影,http://124.231.213.16:9999/tsfile/live/1110_1.m3u8
-
-CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
-CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
-CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 
