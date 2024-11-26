@@ -83,6 +83,9 @@ iHot欧美影院,http://[2409:8087:5e08:24::11]:6610/000000001000/71852035017695
 天映频道,https://tv.mytvsuper.xyz/astro/tianying/tianying.m3u8
 天映频道,http://205.185.123.236:8899/astro/tianying/tianying.m3u8
 天映经典,http://50.7.234.10:8278/Celestial2/playlist.m3u8?tid=MD4D4914978049149780&ct=19955&tsum=f559497d6460d2c46621e285faa7cad4
+电影频道1,http://zby.xjqxz.top/live5/live.m3u8
+电影频道2,http://zby.xjqxz.top/live12/live.m3u8
+电影频道3,http://zby.xjqxz.top/live18/live.m3u8 
 
 🔁周星星,http://159.75.85.63:35455/huya/11342412
 🔁杰森斯坦森,http://159.75.85.63:35455/huya/21059588
