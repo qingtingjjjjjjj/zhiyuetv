@@ -1602,6 +1602,59 @@ CETV-4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com/
 
 
 💓港澳台📶,#genre#
+28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+C+台,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
@@ -1770,9 +1823,9 @@ Now爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 八大综艺,https://4gtv.pendy.us.kg/4gtv.php?id=4gtv-4gtv039
 
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-寰宇新闻,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新闻,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻,http://211.72.65.236:8547/.m3u8
-寰宇新聞台灣台,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+寰宇新聞台灣台,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV41.m3u8
 
 东森新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv152
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv
@@ -1791,7 +1844,7 @@ Now爆谷,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 
 东森综合,http://211.72.65.236:8524/.m3u8
 东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8
-东森财经,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
+东森财经,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/refs/heads/master/TV03.m3u8
 
 东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 
@@ -1852,7 +1905,7 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8$LR•IPV4『线路4』
 华视新闻,http://211.72.65.236:8503/.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-華視戲劇,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+華視戲劇,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV12.m3u8
 
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
@@ -2057,8 +2110,8 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 
 MTV欣赏,http://37.27.111.214:8080/live/25/hls.m3u8
 AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
-(JP)TBS NEWS,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-(Korea)KBS News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+(JP)TBS NEWS,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV45.m3u8
+(Korea)KBS News,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV61.m3u8
 
 
 💓儿童专享,#genre#
@@ -2130,8 +2183,8 @@ CCTV14,https://stream1.freetv.fun/cctv-14-shao-er-2.m3u8
 CCTV14,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000008170/
 CCTV14,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/
 CCTV14,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006673/
-小猪佩奇,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV64.m3u8
-YOYO TV,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+小猪佩奇,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/refs/heads/master/TV64.m3u8
+YOYO TV,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV63.m3u8
 YOYO TV,https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
@@ -2674,16 +2727,16 @@ fox sports 2,https://stream1.freetv.fun/fox-sports-2-5.ctv
 BBC News,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 美国之音,https://litv.zapi.us.kg/?id=litv-ftv03
-TaiwanPlus,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-ABC News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+TaiwanPlus,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV78.m3u8
+ABC News,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV24.m3u8
 DW News,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-DW News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+DW News,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV08.m3u8
 DW News,http://37.27.111.214:8080/live/46/hls.m3u8
-GB News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+GB News,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV33.m3u8
 FRANCE24 English,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-FRANCE24 English,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-NBC News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-Al Jazeera English,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+FRANCE24 English,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV38.m3u8
+NBC News,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV39.m3u8
+Al Jazeera English,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV59.m3u8
 NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 ABC News Australia,https://stream1.freetv.fun/abc-news-australia-1.m3u8
 ABC News Australia,https://stream1.freetv.fun/abc-news-australia-2.ctv
@@ -11079,7 +11132,7 @@ TVBS欢乐,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A411140
 八大综艺,https://litv.zapi.us.kg/?id=4gtv-4gtv039
 三立新闻,http://211.72.65.236:8543/http/61.67.128.137:8081/hls/65/807/ch18.m3u8
 三立新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立新闻,https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,http://litv.zapi.us.kg/?id=4gtv-live089
 三立新闻,http://good.ip/mqlive.m3u8?ip=cp.catvbj.top:55600&id=live1001
 三立新闻,http://211.72.65.236:8543/.m3u8
