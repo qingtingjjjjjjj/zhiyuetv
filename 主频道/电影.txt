@@ -33,6 +33,7 @@ tvN
 经典电影
 黑莓电影
 CI 罪案偵查頻道
+CI 罪案偵緝頻道
 CatchPlay 電影台
 電影原聲台 CMusic
 THRILL惊悚台
@@ -72,18 +73,46 @@ LSTime电影台
 恐怖电影
 卫视电影台
 龙祥时代
-HBO
-BTV影视
-北京影视
-广东影视
-湖北影视
-四川影视
-浙江影视
-东方影视
 1905国外电影
 1905国内电影
 1905电影
 邵氏影院
+HBO
+HBO（北美）
+Turner Classic Movies
+TCM
+Film4
+Sky Cinema
+Star Movies
+WOWOW Cinema
+M-Net Movies
+OSN Movies
+Foxtel Movies
+Rialto 
+ARTE Cinema
+Canal+ Cinéma
+DR K
+TV1000
+Rai Movie
+Phoenix Movies
+NHK BS Premium
+PBO
+The Movie Network
+Cinemax
+Space Channel
+TNT Movie Club
+Dubai One
+Africa Magic Epic
+Sundance TV
+IFC
+ZDF Neo
+TCM Underground
+Disney Channel Movies
+Nickelodeon Movies
+Boomerang
+Crackle
+Tubi TV
+Shudder
 夏洛特烦恼-国内电影-喜剧
 大话西游至尊宝
 大话西游之大圣娶亲
