@@ -13,7 +13,6 @@ AMC电影台
 龙华电影
 美亞電影
 PopC
-PopC电影
 NOW爆谷
 NOW星影
 天映频道
@@ -23,7 +22,7 @@ CAT电影
 东森电影台
 thrill惊悚
 采昌影剧
-tvn
+tvN
 好莱坞电影台
 北京IPTV淘电影
 家庭影院
