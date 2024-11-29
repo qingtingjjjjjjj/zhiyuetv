@@ -59,6 +59,11 @@ NEWTV超级电视剧,http://[2409:8087:5e00:24::10]:6060/200000001898/4600000898
 NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
 NEWTV超级电视剧,http://[2409:8087:74d9:21::6]/270000001128/9900000022/index.m3u8
 
+CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
+CHC家庭电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
+CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
+CHC家庭影院,http://dqr028.x3322.net:4000/rtp/239.93.42.6:5140
+
 数位电影,https://litv.zapi.us.kg/?id=4gtv-4gtv011
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
