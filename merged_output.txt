@@ -82,6 +82,18 @@ CHC家庭电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E
 CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
 CHC家庭影院,http://dqr028.x3322.net:4000/rtp/239.93.42.6:5140
 
+Viu TV,https://ali.hlspull.yximgs.com/live/4bf53599364d6dbd19728d4bc4d6daad.flv
+Hub 都会,https://ali.hlspull.yximgs.com/live/e3788b873fea235b017cff78a4cc5c91.flv
+Hub 娱家,https://ali.hlspull.yximgs.com/live/0482f899b021162cadfd64267ab34ca1.flv
+小尼克频道,https://ali.hlspull.yximgs.com/live/fa3cb87e7af3e8de480bed61e50ff67e.flv
+Animax 卡通,https://ali.hlspull.yximgs.com/live/61e4f4c796466bce83548ae04088ede5.flv
+尼克儿童频道,https://ali.hlspull.yximgs.com/live/799c0b2396f06e72cb01436649087f6a.flv
+龙华电影,http://live3-faintv.cdn.hinet.net/live_HLS/D125.stream/media-ufkwz38kx_312545.ts
+龙华洋片,http://live4-faintv.cdn.hinet.net/live_HLS/D052.stream/media-ueb5ze9iy_167696.ts
+龙华戏剧,http://live1-faintv.cdn.hinet.net/live_HLS/D108.stream/media-uumisiis0_467135.ts
+龙华日韩,http://live3-faintv.cdn.hinet.net/live_HLS/D049.stream/media-uh7cc0fh9_442966.ts
+龙华洋片https://ali.hlspull.yximgs.com/live/9718cd6d9ba5e1744b6d0de825c3119a.flv
+
 数位电影,https://litv.zapi.us.kg/?id=4gtv-4gtv011
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
