@@ -88,11 +88,6 @@ Hub 娱家,https://ali.hlspull.yximgs.com/live/0482f899b021162cadfd64267ab34ca1.
 小尼克频道,https://ali.hlspull.yximgs.com/live/fa3cb87e7af3e8de480bed61e50ff67e.flv
 Animax 卡通,https://ali.hlspull.yximgs.com/live/61e4f4c796466bce83548ae04088ede5.flv
 尼克儿童频道,https://ali.hlspull.yximgs.com/live/799c0b2396f06e72cb01436649087f6a.flv
-龙华电影,http://live3-faintv.cdn.hinet.net/live_HLS/D125.stream/media-ufkwz38kx_312545.ts
-龙华洋片,http://live4-faintv.cdn.hinet.net/live_HLS/D052.stream/media-ueb5ze9iy_167696.ts
-龙华戏剧,http://live1-faintv.cdn.hinet.net/live_HLS/D108.stream/media-uumisiis0_467135.ts
-龙华日韩,http://live3-faintv.cdn.hinet.net/live_HLS/D049.stream/media-uh7cc0fh9_442966.ts
-龙华洋片https://ali.hlspull.yximgs.com/live/9718cd6d9ba5e1744b6d0de825c3119a.flv
 
 数位电影,https://litv.zapi.us.kg/?id=4gtv-4gtv011
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
