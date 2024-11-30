@@ -59,6 +59,17 @@ NEWTV超级电视剧,http://[2409:8087:5e00:24::10]:6060/200000001898/4600000898
 NEWTV超级电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
 NEWTV超级电视剧,http://[2409:8087:74d9:21::6]/270000001128/9900000022/index.m3u8
 
+Now爆谷,https://ali.hlspull.yximgs.com/live/114a5d043f0d07616e6f5df868fa421f.flv
+Now星影,https://ali.hlspull.yximgs.com/live/17669656f235a52fa2edbaedce2bf681.flv
+爱奇艺,https://ali.hlspull.yximgs.com/live/8a5bc1c6520cc3d1566cbde756b584ee.flv
+天映频道,https://ali.hlspull.yximgs.com/live/d2ef91ae208374d6a71b316eaf336959.flv
+HBO HD,https://ali.hlspull.yximgs.com/live/ac7e7d76f2a778611583de7d216440ec.flv
+HBO Hits,https://ali.hlspull.yximgs.com/live/a1cbf37df8bcbe921862f4a169403626.flv
+HBO Signature,https://ali.hlspull.yximgs.com/live/af8f3aadacfc4edaa7d7ee4bb7c3b9d3.flv
+HBO Famliy,https://ali.hlspull.yximgs.com/live/e8658cae387619e7fc0d57c24782a426.flv
+CHC影迷电影, https://ali.hlspull.yximgs.com/live/98755978d8c4920398b994215e3db233.flv
+CHC动作电影,https://ali.hlspull.yximgs.com/live/ead2a28178726a42c176e1791e6a6da4.flv
+CHC家庭电影, https://ali.hlspull.yximgs.com/live/ae9c6f98058797812f85b0f0c6514a36.flv
 CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
 CHC家庭电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
 CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
