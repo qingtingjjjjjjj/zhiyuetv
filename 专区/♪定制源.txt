@@ -1,28 +1,61 @@
-湖北经视,http://58.51.111.46:1111/tsfile/live/1019_1.m3u8
-湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8
-湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
-湖北经视,http://p.hzzzz530.com:4022/rtp/239.69.1.41:9886$湖北cmc3+
-湖北经视,http://www.furymax.top:85/rtp/239.69.1.41:9886
-湖北经视,http://119.98.51.196:4022/rtp/239.69.1.41:9886$LR•IPV4『线路1』
-湖北经视,http://111.175.166.209:8686/rtp/239.69.1.41:9886$LR•IPV4『线路2』
-湖北经视,http://111.175.164.168:8888/rtp/239.69.1.41:9886$LR•IPV4『线路3』
-湖北经视,http://27.18.7.3:4022/rtp/239.69.1.41:9886$LR•IPV4『线路4』
-湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-1.m3u8
-湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-12.m3u8
-湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-16.ctv
-湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-18.ctv
-湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-3.m3u8
-湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-4.m3u8
-湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-5.ctv
-湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-6.m3u8
-湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-7.ctv
-湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-9.ctv
+星空卫视,http://114.105.187.77:9901/tsfile/live/0117_1.m3u8
 星空卫视,http://114.105.187.47:9901/tsfile/live/0117_1.m3u8
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
-🪜RTHK32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
-🪜RTHK32,https://live.hkdvb.com/hls/live/32.m3u8?token=631170156112507&edge=live.tvfree.sbs
-🪜RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-🪜RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
-🪜RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+韩国娱乐台,https://stream1.freetv.fun/glo-bet-1.ctv
+贝爷求生影视,https://stream1.freetv.fun/f92ea9cae12af707c587af406ddb929ea9f58aae893845b713679aab4b1df9f8.ctv
+贝爷求生影视2,https://www.goodiptv.club/douyu/9661369
+贝爷求生,http://159.75.85.63:35455/douyu/454867
+贝爷求生,http://zzy789.xyz/douyu1.php?id=454867
+
+TVB翡翠台,p3p://167.114.175.6:55331/653e4c02000ea0440c8c63fd3e5d709d
+TVB翡翠台,p3p://167.114.175.6:55331/66c04cec000a20ac2dbf03c71cf661c9
+TVB翡翠台,p3p://108.181.32.169:19673/6533f6560002787f2d01338b57197695
+
+TVB Plus,p3p://167.114.175.6:55331/6649bce20008d56453eeebfc022701f1
+TVB Plus,p3p://167.114.175.6:55331/653e4d3e000b344f0c91357e73163f82
+
+TVB无线新闻,p3p://167.114.175.6:55331/66c9c0df00016a4852abc2d358ee0ccb
+TVB无线新闻,p3p://167.114.175.6:55331/653e4703000daead0c78dfb07723484e
+TVB无线新闻,p3p://167.114.175.6:55331/653e4818000b73240c7d19181340415e
+
+TVB财体资讯,p3p://167.114.175.6:55331/5ffbee4900066c0ddf0b8b84423c06f3
+TVB财体资讯,p3p://167.114.175.6:55331/611d989d0005244a4a7f24d111282ffb
+
+TVB明珠,p3p://167.114.175.6:55331/611d99f3000116024a845bb9627404c9
+TVB明珠,p3p://167.114.175.6:55331/602f1ba9000814efa6f2970333d309d9
+
+VIU TV,p3p://167.114.175.6:55331/611d99820007a67c4a82a3fe3cc749de
+VIU TV,p3p://167.114.175.6:55331/5fed3234000c7a49a57dbd6e14af358f
+VIU 6,p3p://167.114.175.6:55331/5fed31e7000736e2a57c8f4c14d55d36
+香港国际财经,p3p://167.114.175.6:55331/64838620000cd8ed32fb0d6a414411f7
+HOY资讯,p3p://167.114.175.6:55331/655bd22c000147307fdff68936807320
+黄金翡翠台,p3p://167.114.175.6:55331/653e49c20006c60f0c8397f7771b1b7b
+TVB千禧经典,p3p://167.114.175.6:55331/5fdee1a2000b5fba6d93e51308cb7ddf
+TVB功夫台,p3p://167.114.175.6:55331/653e4a3f000b1abb0c85815c35fa0803
+TVB华语剧,p3p://167.114.175.6:55331/653e4acf0006e0e80c87b2c8194d5791
+TVB粤语片,p3p://167.114.175.6:55331/653e4b8d00001a450c8a973c06325101
+TVB亚洲剧,p3p://167.114.175.6:55331/6284685e00039b52b82eeeca7a785fda
+
+TVB星河(粤),p3p://167.114.175.6:55331/5fdee23d000b670a6d96428e4c334643
+
+TVB亚洲综艺,p3p://167.114.175.6:55331/63108c86000a543bdb95705579fa26ad
+
+NOW直播,p3p://167.114.175.6:55331/655fa52d000c3fc98ed0353c0e327e63
+Now新闻,p3p://167.114.175.6:55331/653e4f3d0003bdbf0c98ffaf583a6e3a
+Now财经,p3p://167.114.175.6:55331/6256e47a0007a6bb0665fa1971252f50
+Now紫金,p3p://167.114.175.6:55331/6427e42c00084703cd0c176f58dd37f1
+NOW华剧,p3p://167.114.175.6:55331/6519bc200001e7b37dbb01f124075086
+NOW剧集,p3p://167.114.175.6:55331/63ed3e1500077d30e7f449055a0846ce
+NOW星影,p3p://167.114.175.6:55331/65423b7b00047dbb1bebd20b45f374d2
+NOW星影,p3p://167.114.175.6:55331/65bf5e010005226704b84f4f048a4148
+NOW爆谷,p3p://167.114.175.6:55331/65bf60df000777a004c3831b56247b8e
+NOW爆谷,p3p://167.114.175.6:55331/65423beb00082fd01bed887e0ae23bbf
+
+黄金华剧台,p3p://167.114.175.6:55331/652970de00011277bb14dcd76e301cc0
+HBO(粤),p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
+美亚电影(粤),p3p://167.114.175.6:55331/655f8ccc0007d2578e70f934113a2428
+凤凰资讯,p3p://167.114.175.6:55331/5fffbf860003807cedf4e1016c3c3ed2
+凤凰卫视,p3p://167.114.175.6:55331/602c73500002f4d29c90fa1270f21160
+凤凰香港,p3p://167.114.175.6:55331/5fe0b82c000cac9774c17f262e43314d
