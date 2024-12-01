@@ -65,6 +65,8 @@ CHC家庭影院,http://dqr028.x3322.net:4000/rtp/239.93.42.6:5140
 
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 PopC,http://free.xiptv.x10.bz/kudou.php?id=38
+Now爆谷,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=187
+Now星影,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=186
 Now爆谷,http://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
 Now爆谷,https://tv.mytvsuper.xyz/1/baogutai/baogu.m3u8
 Now爆谷,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m3u8
@@ -84,6 +86,40 @@ AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 龙华电影,http://211.72.65.236:8556/.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+
+纬来电影,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=103
+东森电影,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=104
+东森洋片,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=105
+东森戏剧,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=106
+好莱坞电影,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=100
+龙华洋片,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=107
+龙祥电影,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=108
+卫视中文,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=109
+天映频道,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=110
+天映经典,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=111
+星卫电影,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=112
+美亚电影,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=113
+卫视电影,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=114
+HBO HD,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=96
+HBO lgnature,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=97
+HBO HiTS,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=98
+HBO famlly,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=99
+CINEMAX,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=101
+AXN,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=102
+Sony Pix HD,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=115
+BOO,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=117
+KIX,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=118
+华纳电影,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=119
+One,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=120
+Thrill,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=121
+Hits Movie,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=122
+tvN Movie,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=123
+astro AEC,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=175
+astro 全佳,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=176
+astro 小太阳,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=177
+astro 华丽台,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=178
+astro AOD,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=179
+astro 爱奇艺,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=180
 
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 美亞電影,http://149.28.150.229:29191/stream/mytv/mydy/master.m3u8
