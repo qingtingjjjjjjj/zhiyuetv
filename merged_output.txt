@@ -74,14 +74,8 @@ CHC家庭电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E
 CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
 CHC家庭影院,http://dqr028.x3322.net:4000/rtp/239.93.42.6:5140
 
-
-
-HBO Signature,https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-HBO Signature,https://ltocatamarca.github.io/ltotv.m3u8
-HBO Signature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-HBO HD,https://s.vdo.ai/vhs/1.m3u8
-HBO Family,https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
-HBO 2,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+LOVE Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+kortv,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 HBO 3,http://stream.nmih.hu:7960/live.m3u8
 龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
