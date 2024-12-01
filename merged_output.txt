@@ -160,6 +160,57 @@ CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 
+Film Hub,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+Badakhshon,https://live.teleradiocom.tj/11/3m.m3u8
+AZM电视台,https://live.canalnueve.tv/canal.m3u8
+AZM电视台,https://ythls.armelin.one/channel/UCf0t3JPPILv3Pt4GiWwU3Ew.m3u8
+丘布特运河 7 号,https://ythls.armelin.one/channel/UCfmLIFSQSQ-4y9Jgn93nefA.m3u8
+Q'hubo 电视台,https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+瑞尔兹,https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
+瑞尔兹,https://apollo.production-public.tubi.io/live/ac-reelz.m3u8
+HBO亚洲高清,https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+另类电视,https://alternatv.ar/stream/hls/live.m3u8
+CineAr,https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+极限恐怖,https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+极限行动,https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+极限行动,https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+亚美尼亚电影,http://ott-cdn.ucom.am/s22/index.m3u8
+乐天电视动作片（奥地利）,https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8
+鬼影电视,https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+Pluto TV 家庭影院,https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+电视电影,http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+阿富汗诺贝尔电影,https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+渴望 1,http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+PlanetaTV电影,https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+QTV-3,http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+迪斯尼电影频道,https://canal.mediaserver.com.co/live/cinedios.m3u8
+电影节,https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+英雄（芬兰),https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
+波斯电影院,https://cinehls.persiana.live/hls/stream.m3u8
+乐天电视热门电影（法国）,https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+冥王星电视电影（德国）,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec791-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5500aa67-c527-4db6-868b-d37341c34286
+极光传媒电影公司,https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+B4U 电影 印度,http://183.89.246.119:8881/play/a08n/index.m3u8
+玛哈电影,http://14.199.164.20:4001/play/a0q7/index.m3u8
+我的电影,http://210.210.155.37/uq2663/h/h192/index.m3u8
+我的亚洲电影,http://210.210.155.37/uq2663/h/h193/index.m3u8
+影音电影 2,https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/playlist.m3u8
+怪诞电影,https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
+拉丁美洲电影,https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+最佳电影,https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+電影盒,https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+电影流,https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+电影院一号,https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+AXN（菲律宾）,https://wag.ika.lat/stream/2084767267
+看电影,https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+库里亚科斯电影,https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+宝莱坞电影,https://shls-live-ak.akamaized.net/out/v1/fb7b452f58f2412a9ae26b22dd30bd6b/index.m3u8
+艾美迪亚高级版,http://ott-cdn.ucom.am/s64/index.m3u8
+电影院,https://stream01.vnet.am/DomKino/mono.m3u8
+好莱坞,http://stream01.vnet.am/ParamountChannel/mono.m3u8
+电影院 24,http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+罗德诺耶电影院,https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
+自由电影圈,https://panel.freedomflixtv.org:3311/stream/play.m3u8
 
 🔁周星星,http://159.75.85.63:35455/huya/11342412
 🔁杰森斯坦森,http://159.75.85.63:35455/huya/21059588
