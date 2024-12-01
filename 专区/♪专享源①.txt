@@ -72,7 +72,6 @@ Now星影,http://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 Now星影,https://tv.mytvsuper.xyz/1/xingyingtai/xingying.m3u8
 Now星影,http://205.185.123.236:8899/1/now/stream.m3u8
 数位电影,https://litv.zapi.us.kg/?id=4gtv-4gtv011
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 CAT电影,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 
@@ -86,11 +85,8 @@ AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 
-美亞電影,p3p://167.114.175.6:55331/62883c4f000a4ca3c722d5ec04fb74e7
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-美亞電影,p3p://108.181.32.169:19673/642525310003ad3cea72ca2155c734c3
-靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-靖天电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv061
+美亞電影,http://149.28.150.229:29191/stream/mytv/mydy/master.m3u8
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 靖天电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv061
 HISTORY频道,http://37.27.111.214:8080/live/27/hls.m3u8
@@ -98,7 +94,7 @@ HISTORY频道,http://37.27.111.214:8080/live/27/hls.m3u8
 采昌影剧,https://stream1.freetv.fun/0bc646a16e8318982972d11e7e26b2a38bafee9be98597045b97e82f2e6bf588.ctv
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
-美亞電影,http://149.28.150.229:29191/stream/mytv/mydy/master.m3u8
+
 东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
 东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
