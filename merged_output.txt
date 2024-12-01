@@ -162,15 +162,10 @@ CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 
 瑞尔兹,https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
 另类电视,https://alternatv.ar/stream/hls/live.m3u8
-极限恐怖,https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 极限行动,https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 极限行动,https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 亚美尼亚电影,http://ott-cdn.ucom.am/s22/index.m3u8
-阿富汗诺贝尔电影,https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
-迪斯尼电影频道,https://canal.mediaserver.com.co/live/cinedios.m3u8
-电影节,https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 波斯电影院,https://cinehls.persiana.live/hls/stream.m3u8
-极光传媒电影公司,https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 影音电影 2,https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/playlist.m3u8
 怪诞电影,https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
 电影流,https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
