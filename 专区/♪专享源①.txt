@@ -87,6 +87,10 @@ AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 
+港版美亚电影,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=9
+东森超视,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=49
+龙华偶像,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=52
+爱尔达影剧,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=57
 纬来电影,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=103
 东森电影,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=104
 东森洋片,http://192.210.231.23:7878/daili/gYEi7xOLmW_tl.php?id=105
