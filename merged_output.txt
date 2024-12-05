@@ -2395,8 +2395,8 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 
 MTV欣赏,http://37.27.111.214:8080/live/25/hls.m3u8
 AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
-(JP)TBS NEWS,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-(Korea)KBS News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+(JP)TBS NEWS,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV45.m3u8
+(Korea)KBS News,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV61.m3u8
 
 
 💓儿童专享,#genre#
@@ -2626,6 +2626,21 @@ fox sports 2,https://stream1.freetv.fun/fox-sports-2-5.ctv
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 韩国娱乐台,https://stream1.freetv.fun/glo-bet-1.ctv
 贝爷求生影视,https://stream1.freetv.fun/f92ea9cae12af707c587af406ddb929ea9f58aae893845b713679aab4b1df9f8.ctv
+🪜Hub都会国,p3p://167.114.175.6:55331/64bbb7fc0000f99e0e7ccbda6e527811
+🪜Hub娱家国,p3p://167.114.175.6:55331/64bbb85e0009c5db0e7e4ceb66ad5c17
+🪜Hbo原创台,p3p://167.114.175.6:55331/623a6e38000091d497395ce957b27132
+🪜Hbo家庭台,p3p://167.114.175.6:55331/623a706d0003edf59741fcc023dc0089
+🪜Hbo巨献台,p3p://167.114.175.6:55331/623a700000069676974053b555b700d4
+🪜Hbo巨献备,p3p://167.114.175.6:55331/6233e648000735057db6cf734adf440d
+🪜now星影台,p3p://167.114.175.6:55331/65423b7b00047dbb1bebd20b45f374d2
+🪜now爆谷台,p3p://167.114.175.6:55331/65423beb00082fd01bed887e0ae23bbf
+🪜now爆谷台,p3p://167.114.175.6:55331/65bf60df000777a004c3831b56247b8e
+🪜now紫金台,p3p://167.114.175.6:55331/6427e42c00084703cd0c176f58dd37f1
+🪜now华剧台,p3p://167.114.175.6:55331/6519bc200001e7b37dbb01f124075086
+🪜now剧集台,p3p://167.114.175.6:55331/63ed3e1500077d30e7f449055a0846ce
+🪜now直播台,p3p://167.114.175.6:55331/655fa52d000c3fc98ed0353c0e327e63
+🪜now英超粤,p3p://167.114.175.6:55331/65acf008000b26e4bcbb1adc24476b3f
+
 
 
 💓英语频道,#genre#
@@ -2636,16 +2651,16 @@ fox sports 2,https://stream1.freetv.fun/fox-sports-2-5.ctv
 BBC News,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 美国之音,https://litv.zapi.us.kg/?id=litv-ftv03
-TaiwanPlus,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-ABC News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+TaiwanPlus,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV78.m3u8
+ABC News,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV24.m3u8
 DW News,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-DW News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+DW News,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV08.m3u8
 DW News,http://37.27.111.214:8080/live/46/hls.m3u8
-GB News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+GB News,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV33.m3u8
 FRANCE24 English,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-FRANCE24 English,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-NBC News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-Al Jazeera English,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+FRANCE24 English,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV38.m3u8
+NBC News,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV39.m3u8
+Al Jazeera English,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV59.m3u8
 NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 ABC News Australia,https://stream1.freetv.fun/abc-news-australia-1.m3u8
 ABC News Australia,https://stream1.freetv.fun/abc-news-australia-2.ctv
@@ -11803,7 +11818,7 @@ TVBS欢乐,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
 八大综艺,http://litv.zapi.us.kg/?id=4gtv-4gtv039
 八大综艺,https://litv.zapi.us.kg/?id=4gtv-4gtv039
 三立新闻iNEWS,https://dingyue.mytvsuper.xyz/oufei/ofiii_all.php?id=iNEWS
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立新闻,https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 三立新闻,p3p://108.181.32.169:51690/64251e23000bcd04ea573d7c0f0a002e
 三立新闻,http://59.127.17.227:8543/http/61.67.128.137:8081/hls/65/807/ch18.m3u8
