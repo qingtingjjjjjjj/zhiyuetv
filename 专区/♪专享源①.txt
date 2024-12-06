@@ -57,7 +57,7 @@ CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8
 CHC家庭影院,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
 CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
 CHC家庭影院,http://dqr028.x3322.net:4000/rtp/239.93.42.6:5140
-
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 PopC,http://free.xiptv.x10.bz/kudou.php?id=38
 Now爆谷,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m3u8
