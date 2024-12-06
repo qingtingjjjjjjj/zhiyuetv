@@ -1,6 +1,9 @@
 📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 🐼直播熊猫🥇,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 
+AXN电影,http://114.33.60.49:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8 
+龙华电影,http://114.33.60.49:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8 
+Discovery,http://114.33.60.49:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
