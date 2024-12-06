@@ -80,6 +80,8 @@ AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 天映频道,http://205.185.123.236:8899/astro/tianying/tianying.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+HBO Signature,https://stream1.freetv.fun/27a9f474c1e205293b7c540c324e234149ee0305377d147918115290355cf322.ctv
+HBO Family,https://stream1.freetv.fun/646f4f061eab9fc7baf484795840816f62c956c3074a66b2d24a9f3d97646d6b.ctv
 
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 美亞電影,http://149.28.150.229:29191/stream/mytv/mydy/master.m3u8
