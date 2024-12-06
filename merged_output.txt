@@ -80,8 +80,28 @@ AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 天映频道,http://205.185.123.236:8899/astro/tianying/tianying.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+
 HBO Signature,https://stream1.freetv.fun/27a9f474c1e205293b7c540c324e234149ee0305377d147918115290355cf322.ctv
+HBO Signature,https://stream1.freetv.fun/hbo-signature-11.ctv
+HBO Signature,https://stream1.freetv.fun/e8f6a90e166995a7b3abb5bad350e359fccbcd b11871e042c70ed74abb17b217.ctv
+HBO Signature,https://stream1.freetv.fun/hbo-signature-3.ctv
 HBO Family,https://stream1.freetv.fun/646f4f061eab9fc7baf484795840816f62c956c3074a66b2d24a9f3d97646d6b.ctv
+HBO Family,https://stream1.freetv.fun/hbo-family-12.ctv
+HBO Family,https://stream1.freetv.fun/0e0ceaeef1dad337efab1eacf1c973c261a94f610a7074df28acb97b8695e26e.ctv
+HBO Family,https://stream1.freetv.fun/hbo-family-8.ctv
+HBO Comedy,https://stream1.freetv.fun/0f0600ea396736b5806bb173314f0dfe0fca94401337388248735cd448c66ff7.ctv
+HBO Comedy,https://stream1.freetv.fun/hbo-comedy-3.ctv
+HBO Comedy,https://stream1.freetv.fun/e8f6a90e166995a7b3abb5bad350e359fccbcdb11871e042c70ed74abb17b217.ctv
+HBO Comedy,https://stream1.freetv.fun/hbo-signature-3.ctv
+HBO,https://stream1.freetv.fun/896153e21084846ff890166a24b5028a6b12fea3d6c20dd8b2c0057f5a1b4705.ctv
+HBO,https://stream1.freetv.fun/hbo-8.ctv
+HBO Hits,https://stream1.freetv.fun/77471f1909530ab804289374c806a05183a4fca2f6dd1b5acd1f47ae8dabb61a.ctv
+HBO Hits,https://stream1.freetv.fun/hbo-hits-5.ctv
+HBO Hits,https://stream1.freetv.fun/5cb77716eb2cd1342e8d1a8d797105c863c83652eccc01eceb75c4bead370637.ctv
+HBO Hits,https://stream1.freetv.fun/hbo-hits-6.ctv
+HBO Signature,https://stream1.freetv.fun/c92ce0fdb198c5bfef869a8f01e9935c781d423b957cc48dbe6ad16290cd31cd.ctv
+HBO East,https://stream1.freetv.fun/21ae8f2e3c2a0f93160a775b9481dd13619fbef82398b0cbc94a91160100e60d.m3u8
+HBO East,https://stream1.freetv.fun/hbo-east-1.m3u8
 
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 美亞電影,http://149.28.150.229:29191/stream/mytv/mydy/master.m3u8
