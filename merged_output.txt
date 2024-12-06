@@ -2581,8 +2581,6 @@ fox sports 2,https://stream1.freetv.fun/fox-sports-2-5.ctv
 🪜HBO Signature,https://stream1.freetv.fun/hbo-signature-11.ctv
 🪜HBO Signature,https://stream1.freetv.fun/e8f6a90e166995a7b3abb5bad350e359fccbcd b11871e042c70ed74abb17b217.ctv
 🪜HBO Signature,https://stream1.freetv.fun/hbo-signature-3.ctv
-🪜HBO Family,https://stream1.freetv.fun/0e0ceaeef1dad337efab1eacf1c973c261a94f610a7074df28acb97b8695e26e.ctv
-🪜HBO Family,https://stream1.freetv.fun/hbo-family-8.ctv
 🪜HBO Family,https://stream1.freetv.fun/646f4f061eab9fc7baf484795840816f62c956c3074a66b2d24a9f3d97646d6b.ctv
 🪜HBO Family,https://stream1.freetv.fun/hbo-family-12.ctv
 🪜HBO Comedy,https://stream1.freetv.fun/0f0600ea396736b5806bb173314f0dfe0fca94401337388248735cd448c66ff7.ctv
