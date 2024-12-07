@@ -77,6 +77,17 @@ Now爆谷,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m
 AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 CAT电影,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 
+HBO Family,https://stream1.freetv.fun/646f4f061eab9fc7baf484795840816f62c956c3074a66b2d24a9f3d97646d6b.ctv
+HBO Family,https://stream1.freetv.fun/hbo-family-12.ctv
+HBO,https://stream1.freetv.fun/896153e21084846ff890166a24b5028a6b12fea3d6c20dd8b2c0057f5a1b4705.ctv
+HBO,https://stream1.freetv.fun/hbo-8.ctv
+HBO Hits,https://stream1.freetv.fun/77471f1909530ab804289374c806a05183a4fca2f6dd1b5acd1f47ae8dabb61a.ctv
+HBO Hits,https://stream1.freetv.fun/hbo-hits-5.ctv
+HBO Hits,https://stream1.freetv.fun/5cb77716eb2cd1342e8d1a8d797105c863c83652eccc01eceb75c4bead370637.ctv
+HBO Hits,https://stream1.freetv.fun/hbo-hits-6.ctv
+POPC,https://stream1.freetv.fun/22100c68023f7b1582323ae454f0afb871a2e861e77241fb2eb8a2fd478836f7.m3u8
+POPC,https://stream1.freetv.fun/popc-1.m3u8
+
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv017
 AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
