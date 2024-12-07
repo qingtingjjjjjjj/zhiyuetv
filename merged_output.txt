@@ -8,8 +8,6 @@
 📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 🐼直播熊猫🥇,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 
-Warner TV,https://stream1.freetv.fun/de7ee81b2a4d8193d73f5d5899d86c5cb91db582a25522139c3932c1bb617cb2.ctv
-Warner TV,https://stream1.freetv.fun/warner-tv-2.ctv
 AXN,http://114.33.60.49:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN,https://stream1.freetv.fun/8db6529fdb57adf7321cd065e9cc33cb876d52f3c83aa706685f467c53a3a2df.ctv
 龙华电影,http://114.33.60.49:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
@@ -93,6 +91,8 @@ HBO Hits,https://stream1.freetv.fun/5cb77716eb2cd1342e8d1a8d797105c863c83652eccc
 HBO Hits,https://stream1.freetv.fun/hbo-hits-6.ctv
 PopC,https://stream1.freetv.fun/22100c68023f7b1582323ae454f0afb871a2e861e77241fb2eb8a2fd478836f7.m3u8
 PopC,https://stream1.freetv.fun/popc-1.m3u8
+Warner TV,https://stream1.freetv.fun/warner-tv-2.ctv
+Warner TV,https://stream1.freetv.fun/de7ee81b2a4d8193d73f5d5899d86c5cb91db582a25522139c3932c1bb617cb2.ctv
 
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv017
