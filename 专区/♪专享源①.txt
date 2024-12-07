@@ -83,6 +83,8 @@ HBO Hits,https://stream1.freetv.fun/5cb77716eb2cd1342e8d1a8d797105c863c83652eccc
 HBO Hits,https://stream1.freetv.fun/hbo-hits-6.ctv
 PopC,https://stream1.freetv.fun/22100c68023f7b1582323ae454f0afb871a2e861e77241fb2eb8a2fd478836f7.m3u8
 PopC,https://stream1.freetv.fun/popc-1.m3u8
+Warner TV,https://stream1.freetv.fun/warner-tv-2.ctv
+Warner TV,https://stream1.freetv.fun/de7ee81b2a4d8193d73f5d5899d86c5cb91db582a25522139c3932c1bb617cb2.ctv
 
 靖天映画,https://litv.zapi.us.kg/?id=4gtv-4gtv055
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
