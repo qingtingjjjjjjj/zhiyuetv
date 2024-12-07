@@ -2599,6 +2599,8 @@ fox sports 2,https://stream1.freetv.fun/fox-sports-2-5.ctv
 🪜HBO Signature,https://stream1.freetv.fun/c92ce0fdb198c5bfef869a8f01e9935c781d423b957cc48dbe6ad16290cd31cd.ctv
 🪜HBO East,https://stream1.freetv.fun/21ae8f2e3c2a0f93160a775b9481dd13619fbef82398b0cbc94a91160100e60d.m3u8
 🪜HBO East,https://stream1.freetv.fun/hbo-east-1.m3u8
+🪜POPC,https://stream1.freetv.fun/22100c68023f7b1582323ae454f0afb871a2e861e77241fb2eb8a2fd478836f7.m3u8
+🪜POPC,https://stream1.freetv.fun/popc-1.m3u8
 
 💓英语频道,#genre#
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
