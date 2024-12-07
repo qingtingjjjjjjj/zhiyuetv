@@ -8,18 +8,6 @@
 📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 🐼直播熊猫🥇,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 
-mbc movies,https://stream1.freetv.fun/b8eb43e2eb88f89a63a0902acf9ec20ec03f56813e0d0aa64bd820701e0e8bdf.m3u8
-mbc movies thriller,https://stream1.freetv.fun/3f3dadef14677c7791597ab71402711ec70320ba47f92bcb51d571ef89a2bd35.m3u8
-abc news live 10,https://stream1.freetv.fun/c675fad5fb8077145d1af2da5c0884a6612aa152b5a3ad1884252a4fa2a0b383.m3u8
-Kix,https://stream1.freetv.fun/5e1dd4520f50151e21cfbf621307ca73a1223fc4df56e981252206efc7416c90.ctv
-Kix,https://stream1.freetv.fun/d768fc651b8d7400e5574293bdffd6629defc76e0770dad03659af8373162ad2.ctv
-Cinemax,https://stream1.freetv.fun/623e74977c99b042ad87f5990189b3fd4f0b722f5d0fdd92ef227bf6ee5d02ca.ctv
-CineMax Action,https://stream1.freetv.fun/eac64c47c125bff14ad690b730543004b03c70a75787347df3a09afde840d747.ctv
-HBO Signature,https://stream1.freetv.fun/c92ce0fdb198c5bfef869a8f01e9935c781d423b957cc48dbe6ad16290cd31cd.ctv
-CCM,https://stream1.freetv.fun/48006f174a934feedb3b2b60f5e716a8c378c4d3ca92008d2ca2d4fa8bb16d94.ctv
-
-
-
 AXN,http://114.33.60.49:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN,https://stream1.freetv.fun/8db6529fdb57adf7321cd065e9cc33cb876d52f3c83aa706685f467c53a3a2df.ctv
 龙华电影,http://114.33.60.49:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
@@ -88,6 +76,7 @@ Now爆谷,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m
 AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 CAT电影,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 
+Cinemax,https://stream1.freetv.fun/623e74977c99b042ad87f5990189b3fd4f0b722f5d0fdd92ef227bf6ee5d02ca.ctv
 HBO Family,https://stream1.freetv.fun/646f4f061eab9fc7baf484795840816f62c956c3074a66b2d24a9f3d97646d6b.ctv
 HBO Family,https://stream1.freetv.fun/hbo-family-12.ctv
 HBO,https://stream1.freetv.fun/896153e21084846ff890166a24b5028a6b12fea3d6c20dd8b2c0057f5a1b4705.ctv
