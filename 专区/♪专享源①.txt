@@ -68,6 +68,8 @@ Now爆谷,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m
 AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
 CAT电影,https://litv.zapi.us.kg/?id=4gtv-4gtv076
 
+HBO ZONE,https://stream1.freetv.fun/a2f76a771e49996a877e8ec57cf83ef3e8a3029783550930d613ebc0841cd5b6.ctv
+HBO West,https://stream1.freetv.fun/979bc094c14d320433e8f8dd25435644e7d0a971d6bf6424f68592a5719f7f46.ctv
 HBO Signature,https://stream1.freetv.fun/74e5e8ad73efbbfe9c6c963a60e5bff5c8bb185f13e06653a3a15a58fea2ab79.ctv
 Cinemax,https://stream1.freetv.fun/623e74977c99b042ad87f5990189b3fd4f0b722f5d0fdd92ef227bf6ee5d02ca.ctv
 HBO Family,https://stream1.freetv.fun/646f4f061eab9fc7baf484795840816f62c956c3074a66b2d24a9f3d97646d6b.ctv
