@@ -63,6 +63,7 @@ CHC家庭影院,http://dqr028.x3322.net:4000/rtp/239.93.42.6:5140
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 PopC,http://free.xiptv.x10.bz/kudou.php?id=38
+KIX,https://stream1.freetv.fun/691b4fe2f3e2dc1b0c7471e6149f9dd2fbdd787402ea3f1cbff1e6df28c074f7.m3u8
 Now爆谷,http://223.244.26.190:8082/now包谷.盗源者死全家/易發TV/hls.m3u8
 数位电影,https://litv.zapi.us.kg/?id=4gtv-4gtv011
 AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
