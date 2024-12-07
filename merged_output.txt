@@ -8,6 +8,9 @@
 📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 🐼直播熊猫🥇,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 
+KIX,https://stream1.freetv.fun/d30118e8c3b966dc85f342c1a5a47964cd775959c6ce17459f6bbb11028e6ee2.ctv
+KIX,https://stream1.freetv.fun/a3edf74512b3f9151708763be1abc2561f87ba0e93f88b300b47159413dfd600.ctv
+KIX,https://stream1.freetv.fun/691b4fe2f3e2dc1b0c7471e6149f9dd2fbdd787402ea3f1cbff1e6df28c074f7.m3u8
 AXN,http://114.33.60.49:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
 AXN,https://stream1.freetv.fun/8db6529fdb57adf7321cd065e9cc33cb876d52f3c83aa706685f467c53a3a2df.ctv
 龙华电影,http://114.33.60.49:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
