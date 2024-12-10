@@ -1,4 +1,5 @@
 日本动漫,https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2.ts
+i-Fun动漫台,http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/litv-ftv15
 韩国卡通,http://mytv.dothome.co.kr/ch/catv/6.php
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 海绵宝宝,http://120.77.28.4:8648/huya.php?id=11352919
