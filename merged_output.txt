@@ -8,6 +8,27 @@
 📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 🐼直播熊猫🥇,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 
+PopC,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4975&tk=e503191f8e20
+PopC,P2p://starvod.xyz:19806/38daa884192e4a1c957070103137866b
+ROCK Action,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1322&tk=e503191f8e20
+tvN,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1609&tk=e503191f8e20
+龍華電影台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8472&tk=e503191f8e20
+Now星影台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9051&tk=e503191f8e20
+Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8931&tk=e503191f8e20
+Thrill,P2p://starvod.xyz:19806/f53f968579c1414ba1eb7c5f3eb775dc
+天映经典,P2p://starvod.xyz:19806/1f10286d7bb14bcda455836cb9e4c5e9
+天映频道,P2p://starvod.xyz:19806/de35dcefd74244ae9bbbb83566d6222c
+美亞電影,P2p://starvod.xyz:19806/d1175643ed8547a089ff04eac30f8fb7
+HBO Family,P2p://starvod.xyz:19806/741fb45c3c3c45ee9342501a46b3fa03
+壹电视,P2p://starvod.xyz:19806/423c530a8d8e406b9e5ff5f84bb4717a
+东森洋片,P2p://starvod.xyz:19806/c96fcc121115445bbcb115f24d2a0a1a
+AXN电影,P2p://starvod.xyz:19806/fccae3ecae554287914ba7bd8b09e3c7
+好莱坞电影,P2p://starvod.xyz:19806/b64cbaff0f5148d4a83e5001f023bd79
+HBO强档,P2p://starvod.xyz:19806/0e1f3763c81b4129abbe07590c4c8e17
+HBO原创,P2p://starvod.xyz:19806/d99641dc9e24460ab5209a760947b893
+罪案侦缉,P2p://starvod.xyz:19806/207f68a4fd0142a3851c3f943aa4556c
+数位电影,P2p://starvod.xyz:19806/d613d16093fa446382be58edde88eeba
+
 Discovery,http://114.33.60.49:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
