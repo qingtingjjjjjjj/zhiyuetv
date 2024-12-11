@@ -12,8 +12,8 @@ PopC,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4975&tk=e503191f8e20
 PopC,P2p://starvod.xyz:19806/38daa884192e4a1c957070103137866b
 ROCK Action,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1322&tk=e503191f8e20
 tvN,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1609&tk=e503191f8e20
-龍華電影台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8472&tk=e503191f8e20
-Now星影台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9051&tk=e503191f8e20
+龍華電影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8472&tk=e503191f8e20
+Now星影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9051&tk=e503191f8e20
 Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8931&tk=e503191f8e20
 Thrill,P2p://starvod.xyz:19806/f53f968579c1414ba1eb7c5f3eb775dc
 天映经典,P2p://starvod.xyz:19806/1f10286d7bb14bcda455836cb9e4c5e9
