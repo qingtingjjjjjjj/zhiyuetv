@@ -5,6 +5,9 @@
 
 
 🅰️世界光影汇,#genre#
+📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+🐼直播熊猫🥇,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+
 PopC,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4975&tk=e503191f8e20
 PopC,P2p://starvod.xyz:19806/38daa884192e4a1c957070103137866b
 HBO Hits,http://stream.freedns.top/streams/lNRz1Fd-uwBTFFhFtoaoCXs8J_T8xeXK20pRhSz74rki9Ad9bEwqgBSOWiVtB5Z_FuWXHeedMtq0c9GPrhErRBbnYHDinkJVHyvOLiH2rbqT7izvWNJO3Oo4SSLe8USmS1kpf-cn6-wV3pNGU9y6IRSrjcgMzyxMkwbdCIi_fGhb8hJ9lK0CaR52V6pvN2N7mlpTQAV4ojcDFK8M-IvmDEQTGX520UCXQTXnRb8zpPYNhbptN9ymuz8uAoJ15D59p85V03a5j4IBGiBJ4sysdA.m3u8?u=1733935802819
@@ -2506,8 +2509,8 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 
 MTV欣赏,http://37.27.111.214:8080/live/25/hls.m3u8
 AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
-(JP)TBS NEWS,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-(Korea)KBS News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+(JP)TBS NEWS,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV45.m3u8
+(Korea)KBS News,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV61.m3u8
 
 
 🪁童梦乐园,#genre#
@@ -2804,16 +2807,16 @@ jsports 2,https://stream1.freetv.fun/jsports-2-2.m3u8
 BBC News,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBC News,http://125.227.210.55:8165/VideoInput/play.ts
 美国之音,https://litv.zapi.us.kg/?id=litv-ftv03
-TaiwanPlus,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-ABC News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+TaiwanPlus,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV78.m3u8
+ABC News,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV24.m3u8
 DW News,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-DW News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+DW News,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV08.m3u8
 DW News,http://37.27.111.214:8080/live/46/hls.m3u8
-GB News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+GB News,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV33.m3u8
 FRANCE24 English,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-FRANCE24 English,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-NBC News,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-Al Jazeera English,https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+FRANCE24 English,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV38.m3u8
+NBC News,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV39.m3u8
+Al Jazeera English,https://ghp.ci/https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV59.m3u8
 NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
 ABC News Australia,https://stream1.freetv.fun/abc-news-australia-1.m3u8
 ABC News Australia,https://stream1.freetv.fun/abc-news-australia-2.ctv
@@ -17144,7 +17147,7 @@ TVBS欢乐,http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A411140
 三立新闻,p3p://173.208.176.178:31809/6014c896000c7101401f67cc5477681b
 三立新闻,p3p://167.114.175.6:55331/6014c896000c7101401f67cc5477681b
 三立新闻,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14
-三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立新闻,https://raw.dgithub.xyz/ChiSheng9/iptv/master/TV32.m3u8
 三立新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 三立新闻,p3p://108.181.32.169:23371/64251e23000bcd04ea573d7c0f0a002e
 三立新闻,p3p://108.181.32.169:51690/64251e23000bcd04ea573d7c0f0a002e
