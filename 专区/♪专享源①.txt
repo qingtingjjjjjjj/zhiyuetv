@@ -108,6 +108,7 @@ HISTORY频道,http://37.27.111.214:8080/live/27/hls.m3u8
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 大自然4k,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
+HBO1,http://41.205.93.154/HBO/index.m3u8
 HBO ZONE,https://stream1.freetv.fun/a2f76a771e49996a877e8ec57cf83ef3e8a3029783550930d613ebc0841cd5b6.ctv
 HBO Signature,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 HBO Signature,https://stream1.freetv.fun/74e5e8ad73efbbfe9c6c963a60e5bff5c8bb185f13e06653a3a15a58fea2ab79.ctv
