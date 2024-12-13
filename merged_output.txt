@@ -8,34 +8,10 @@
 📹️直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 🐼直播熊猫🥇,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 
-HBO ZONE,https://stream1.freetv.fun/a2f76a771e49996a877e8ec57cf83ef3e8a3029783550930d613ebc0841cd5b6.ctv
-HBO Signature,https://stream1.freetv.fun/74e5e8ad73efbbfe9c6c963a60e5bff5c8bb185f13e06653a3a15a58fea2ab79.ctv
-Cinemax,https://stream1.freetv.fun/623e74977c99b042ad87f5990189b3fd4f0b722f5d0fdd92ef227bf6ee5d02ca.ctv
-HBO Family,https://stream1.freetv.fun/646f4f061eab9fc7baf484795840816f62c956c3074a66b2d24a9f3d97646d6b.ctv
-HBO Family,https://stream1.freetv.fun/hbo-family-12.ctv
-
-HBO Family,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-HBO Family,https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
-HBO Family,
-
-HBO,https://stream1.freetv.fun/896153e21084846ff890166a24b5028a6b12fea3d6c20dd8b2c0057f5a1b4705.ctv
-HBO,https://stream1.freetv.fun/hbo-8.ctv
-
-HBO,http://41.205.93.154/HBO/index.m3u8
-HBO,http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+HBO,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 HBO,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-HBO原創鉅獻,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-HBO原創鉅獻,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-HBO強檔鉅獻,http://50.7.234.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 
-HBO Hits,https://stream1.freetv.fun/77471f1909530ab804289374c806a05183a4fca2f6dd1b5acd1f47ae8dabb61a.ctv
-HBO Hits,https://stream1.freetv.fun/hbo-hits-5.ctv
-HBO Hits,https://stream1.freetv.fun/5cb77716eb2cd1342e8d1a8d797105c863c83652eccc01eceb75c4bead370637.ctv
-HBO Hits,https://stream1.freetv.fun/hbo-hits-6.ctv
-PopC,https://stream1.freetv.fun/22100c68023f7b1582323ae454f0afb871a2e861e77241fb2eb8a2fd478836f7.m3u8
-PopC,https://stream1.freetv.fun/popc-1.m3u8
-Warner TV,https://stream1.freetv.fun/warner-tv-2.ctv
-Warner TV,https://stream1.freetv.fun/de7ee81b2a4d8193d73f5d5899d86c5cb91db582a25522139c3932c1bb617cb2.ctv
 🅱️影网急先锋,#genre#
 邵氏影院,http://120.77.28.4:8648/douyu.php?id=4246519
 凌儿影院,http://120.77.28.4:8648/douyu.php?id=1377142
