@@ -28,13 +28,16 @@ def check_url(url, timeout=6):
     start_time = time.time()
     elapsed_time = None
     success = False
+
+    # 将 URL 中的汉字编码
+    encoded_url = urllib.parse.quote(url, safe=':/?&=')
     
     try:
         if url.startswith("http"):
             headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
             }
-            req = urllib.request.Request(url, headers=headers)
+            req = urllib.request.Request(encoded_url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as response:
                 if response.status == 200:
                     success = True
@@ -93,8 +96,8 @@ def check_p3p_url(url, timeout):
         # 解析URL
         parsed_url = urlparse(url)
         host = parsed_url.hostname
-        port = parsed_url.port
-        path = parsed_url.path
+        port = parsed_url.port or (80 if parsed_url.scheme == "http" else 443)
+        path = parsed_url.path or "/"
         
         # 检查解析是否成功
         if not host or not port or not path:
@@ -103,7 +106,14 @@ def check_p3p_url(url, timeout):
         # 创建一个 TCP 连接
         with socket.create_connection((host, port), timeout=timeout) as s:
             # 发送一个简单的请求（根据协议定义可能需要调整）
-            request = f"GET {path} P3P/1.0\r\nHost: {host}\r\n\r\n"
+            # request = f"GET {path} P3P/1.0\r\nHost: {host}\r\n\r\n"
+            # 构造请求
+            request = (
+                f"GET {path} P3P/1.0\r\n"
+                f"Host: {host}\r\n"
+                f"User-Agent: CustomClient/1.0\r\n"
+                f"Connection: close\r\n\r\n"
+            )
             s.sendall(request.encode())
             
             # 读取响应
@@ -311,40 +321,12 @@ def record_host(host):
     # 如果 host 不在字典中，加入并初始化计数为 1
     else:
         blacklist_dict[host] = 1
-# 将结果保存为 txt 文件
-def save_blackhost_to_txt(filename=f"{datetime.now().strftime("%Y%m%d_%H_%M_%S")}_blackhost_count.txt"):
-    with open(filename, "w") as file:
-        for host, count in blacklist_dict.items():
-            file.write(f"{host}: {count}\n")
-    print(f"结果已保存到 {filename}")
+
 
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
-        'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
-        'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u',
-        'https://raw.githubusercontent.com/kimwang1978/tvbox/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/lives/%E2%91%AD%E5%BC%80%E5%BF%83%E7%BA%BF%E8%B7%AF.txt',
-        'https://raw.githubusercontent.com/mlvjfchen/TV/main/iptv_list.txt', 
-        'https://raw.githubusercontent.com/gdstchdr1/IPTV/main/bc.txt',  # 【2024-08-01 10:40:29】
-        'https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u',  # 【2024-08-01 10:40:29】
-        'https://raw.githubusercontent.com/wwb521/live/main/tv.m3u',  # 【2024-08-01 10:40:29】
-        'https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt',  # 【2024-08-01 10:40:29】
-        'https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt',  #【2024-08-01 10:40:29】
-        'https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8', #15分钟更新1次   # 【2024-08-01 10:40:29】
-        'https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt', # 【2024-08-01 10:40:29】
-        'https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt', # 【2024-08-02 16:48:40】#每日更新1次
-        'https://notabug.org/vnjd/yydu/raw/master/yyfug.txt', # 【2024-08-06】
-        'https://tvkj.top/tvlive.txt', # 【2024-08-06】
-        'https://pan.beecld.com/f/OXMcA/%E6%98%A5%E8%B5%A2%E5%A4%A9%E4%B8%8B.txt', # 【2024-08-06】
-        'http://kxrj.site:55/lib/kx2024.txt',   # 【2024-08-07】
-        'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',   # 2024-08-05 每天更新一次，量太多转到blacklist处理
-        'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',   # 【2024-08-07】#每日更新2次
-        'http://wz.42web.io/ipv4.txt',   # 【2024-08-08】
-        'http://yuhuahx.com/dsj66.txt',   # 【2024-08-14】
-        'https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt',  # 【2024-08-20】
-        'https://raw.githubusercontent.com/Andreayoo/ming/main/IPTV.txt', #【2024-08-24】
-        'http://gg.gg/cctvgg',   # 【2024-08-10】
-        'https://2883.kstore.space/%E2%91%A0%E7%8C%ABTV%E7%BA%BF%E8%B7%AF',   # 【2024-09-10】
+        "https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt",
         'https://gitlab.com/p2v5/wangtv/-/raw/main/wang-tvlive.txt'
         #'',
         #''
@@ -357,8 +339,12 @@ if __name__ == "__main__":
     current_dir = os.path.dirname(os.path.abspath(__file__))
     # 获取上一层目录
     parent_dir = os.path.dirname(current_dir)
+    # 获取再上一层目录
+    parent2_dir = os.path.dirname(parent_dir)
+    # # 获取根目录
+    # root_dir = os.path.abspath(os.sep)  
 
-    input_file1 = os.path.join(parent_dir, 'merged_output.txt')  # 输入文件路径1
+    input_file1 = os.path.join(parent2_dir, 'live.txt')  # 输入文件路径1
     input_file2 = os.path.join(current_dir, 'blacklist_auto.txt')  # 输入文件路径2 
     success_file = os.path.join(current_dir, 'whitelist_auto.txt')  # 成功清单文件路径
     success_file_tv = os.path.join(current_dir, 'whitelist_auto_tv.txt')  # 成功清单文件路径（另存一份直接引用源）
@@ -465,7 +451,25 @@ if __name__ == "__main__":
     print(f"  urls_ok: {urls_ok} ")
     print(f"  urls_ng: {urls_ng} ")
 
-    save_blackhost_to_txt()
+
+# 确保路径存在
+blackhost_dir = os.path.join(current_dir, "blackhost")
+os.makedirs(blackhost_dir, exist_ok=True)
+
+# 构造文件名
+blackhost_filename = os.path.join(
+    blackhost_dir,
+    f"{datetime.now().strftime('%Y%m%d_%H_%M_%S')}_blackhost_count.txt"
+)
+
+# 将结果保存为 txt 文件 
+def save_blackhost_to_txt(filename=blackhost_filename):
+    with open(filename, "w") as file:
+        for host, count in blacklist_dict.items():
+            file.write(f"{host}: {count}\n")
+    print(f"结果已保存到 {filename}")
+
+save_blackhost_to_txt()
             
 for statistics in url_statistics: #查看各个url的量有多少 2024-08-19
     print(statistics)
