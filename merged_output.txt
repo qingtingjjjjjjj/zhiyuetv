@@ -24,20 +24,10 @@ NewTV超级电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000003000
 NewTV超级电视剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/
 黑莓电影,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
 
-
 好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 龍祥电影,http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
 东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
-
-PopC,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4975&tk=e503191f8e20
-ROCK Action,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1322&tk=e503191f8e20
-tvN,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1609&tk=e503191f8e20
-龍華電影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8472&tk=e503191f8e20
-Now星影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9051&tk=e503191f8e20
-Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8931&tk=e503191f8e20
-
 Discovery,http://114.33.60.49:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
@@ -54,7 +44,8 @@ NewTV明星大片,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 NewTV惊悚悬疑,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 
-黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+PopC,http://free.xiptv.x10.bz/kudou.php?id=38黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
 NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
 NewTV超级电视剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/1.m3u8
 NewTV中国功夫,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010087/1.m3u8
@@ -90,16 +81,11 @@ NewTV超级电视剧,http://[2409:8087:5e00:24::10]:6060/200000001898/4600000898
 NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
 NewTV超级电视剧,http://[2409:8087:74d9:21::6]/270000001128/9900000022/index.m3u8
 
-CHC动作电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
-CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
-CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
 CHC家庭影院,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
 CHC影迷电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
 CHC家庭影院,http://dqr028.x3322.net:4000/rtp/239.93.42.6:5140
 Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-PopC,http://free.xiptv.x10.bz/kudou.php?id=38
 KIX,https://stream1.freetv.fun/691b4fe2f3e2dc1b0c7471e6149f9dd2fbdd787402ea3f1cbff1e6df28c074f7.m3u8
 数位电影,https://litv.zapi.us.kg/?id=4gtv-4gtv011
 AMC电影,https://litv.zapi.us.kg/?id=4gtv-4gtv017
@@ -114,14 +100,18 @@ AMC电影,http://tw.ts138.top/4g/?id=4gtv-4gtv017
 天映频道,http://205.185.123.236:8899/astro/tianying/tianying.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-AXN电影,http://114.33.60.49:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8
-龙华电影,http://114.33.60.49:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
+AXN电影,http://114.33.60.49:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8 
+龙华电影,http://114.33.60.49:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8 
 
 美亞電影,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 美亞電影,http://149.28.150.229:29191/stream/mytv/mydy/master.m3u8
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 靖天电影,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv061
-HISTORY频道,http://37.27.111.214:8080/live/27/hls.m3u8
+龍華日韓,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+mytvsuper,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龍華電影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+Now星影,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+Now爆谷,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8HISTORY频道,http://37.27.111.214:8080/live/27/hls.m3u8
 緯来电影,http://108.181.20.215:44779
 采昌影剧,https://stream1.freetv.fun/0bc646a16e8318982972d11e7e26b2a38bafee9be98597045b97e82f2e6bf588.ctv
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
@@ -164,12 +154,6 @@ CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 韩KBS Word,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-
-龍華日韓,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-mytvsuper,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龍華電影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-Now星影,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-Now爆谷,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 viutv,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 viutv6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
