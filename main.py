@@ -584,15 +584,15 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+ [
              ["🅱️影网急先锋,#genre#"] + read_txt_to_array('专区/♪专享源②.txt') + ['\n'] + \
              ["🌍央视荟萃,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
              ["🛰️卫视精选,#genre#"] + read_txt_to_array('专区/♪优质卫视.txt') + ['\n'] + \
-             ["🌊港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
-             ["🗡️台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
+             ["🏝️港澳台⛴️,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
+             ["🚀台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
              ["🏠电视剧🔁,#genre#"] + read_txt_to_array('专区/♪电视剧.txt') + ['\n'] + \
              ["🥸源选之光,#genre#"] + read_txt_to_array('专区/♪优质源.txt') + ['\n'] + \
              ["🪁童梦乐园,#genre#"] + read_txt_to_array('专区/♪儿童专享.txt') + ['\n'] + \
-             ["⚾️咪咕直播,#genre#"] + read_txt_to_array('专区/♪咪咕直播.txt') + ['\n'] + \
-             ["🏀SPORTS⚽️,#genre#"] + read_txt_to_array('专区/♪sports.txt') + ['\n'] + \
-             ["🍹定制台☕️,#genre#"] + read_txt_to_array('专区/♪定制源.txt') + ['\n'] + \
-             ["💓English World,#genre#"] + read_txt_to_array('专区/♪英语频道.txt') + ['\n'] + \
+             ["🏟️咪咕直播,#genre#"] + read_txt_to_array('专区/♪咪咕直播.txt') + ['\n'] + \
+             ["🏀热血竞技⚽️,#genre#"] + read_txt_to_array('专区/♪sports.txt') + ['\n'] + \
+             ["🍹私人定制☕️,#genre#"] + read_txt_to_array('专区/♪定制源.txt') + ['\n'] + \
+             ["🗺️英语环球🌏,#genre#"] + read_txt_to_array('专区/♪英语频道.txt') + ['\n'] + \
              ["☘️湖南频道,#genre#"] + sort_data(hn_dictionary,set(correct_name_data(corrections_name,hn_lines))) + ['\n'] + \
              ["☘️湖北频道,#genre#"] + sort_data(hb_dictionary,set(correct_name_data(corrections_name,hb_lines))) + ['\n'] + \
              ["☘️广东频道,#genre#"] + sort_data(gd_dictionary,set(correct_name_data(corrections_name,gd_lines))) + ['\n'] + \
@@ -609,15 +609,15 @@ all_lines =  ["更新时间,#genre#"] +[version]  +[about] +[daily_mtv] + ['\n']
              ["🅱️影网急先锋,#genre#"] + read_txt_to_array('专区/♪专享源②.txt') + ['\n'] + \
              ["🌍央视荟萃,#genre#"] + read_txt_to_array('专区/♪优质央视.txt') + ['\n'] + \
              ["🛰️卫视精选,#genre#"] + read_txt_to_array('专区/♪优质卫视.txt') + ['\n'] + \
-             ["🌊港澳台📶,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
-             ["🗡️台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
+             ["🏝️港澳台⛴️,#genre#"] + read_txt_to_array('专区/♪港澳台.txt') + ['\n'] + \
+             ["🚀台湾台📶,#genre#"] + read_txt_to_array('专区/♪台湾台.txt') + ['\n'] + \
              ["🏠电视剧🔁,#genre#"] + read_txt_to_array('专区/♪电视剧.txt') + ['\n'] + \
              ["🥸源选之光,#genre#"] + read_txt_to_array('专区/♪优质源.txt') + ['\n'] + \
              ["🪁童梦乐园,#genre#"] + read_txt_to_array('专区/♪儿童专享.txt') + ['\n'] + \
-             ["⚾️咪咕直播,#genre#"] + read_txt_to_array('专区/♪咪咕直播.txt') + ['\n'] + \
-             ["🏀SPORTS⚽️,#genre#"] + read_txt_to_array('专区/♪sports.txt') + ['\n'] + \
-             ["🍹定制台☕️,#genre#"] + read_txt_to_array('专区/♪定制源.txt') + ['\n'] + \
-             ["💓English World,#genre#"] + read_txt_to_array('专区/♪英语频道.txt') + ['\n'] + \
+             ["🏟️咪咕直播,#genre#"] + read_txt_to_array('专区/♪咪咕直播.txt') + ['\n'] + \
+             ["🏀热血竞技⚽️,#genre#"] + read_txt_to_array('专区/♪sports.txt') + ['\n'] + \
+             ["🍹私人定制☕️,#genre#"] + read_txt_to_array('专区/♪定制源.txt') + ['\n'] + \
+             ["🗺️英语环球🌏,#genre#"] + read_txt_to_array('专区/♪英语频道.txt') + ['\n'] + \
              ["🌐央视频道,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
              ["📡卫视频道,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
              ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
