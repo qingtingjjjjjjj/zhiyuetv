@@ -6,7 +6,7 @@
 天映经典,http://zb.xmzb.xyz/888.php?id=OOO天映经典
 东森电影,http://zb.xmzb.xyz/888.php?id=OOO东森电影
 美亚电影,http://zb.xmzb.xyz/888.php?id=OOO美亚电影
-PopC,http://zb.xmzb.xyz/888.php?id=OOOPOPC
+POPC,http://zb.xmzb.xyz/888.php?id=OOOPOPC
 澳门莲花,http://zb.xmzb.xyz/888.php?id=OOO澳门莲花
 中国电影,http://zb.xmzb.xyz/888.php?id=OOO中国电影
 东森洋片,http://zb.xmzb.xyz/888.php?id=OOO东森洋片
@@ -61,8 +61,8 @@ NewTV明星大片,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 NewTV惊悚悬疑,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-PopC,http://free.xiptv.x10.bz/kudou.php?id=38黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
+POPC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+POPC,http://free.xiptv.x10.bz/kudou.php?id=38黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
 NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
 NewTV超级电视剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/1.m3u8
 NewTV中国功夫,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010087/1.m3u8
