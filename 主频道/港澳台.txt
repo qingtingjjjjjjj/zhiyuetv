@@ -30,6 +30,7 @@ TVB创世电影
 TVB戏曲
 TVBPLUS
 TVBJ2
+PopC
 J2
 VIU
 VIUTV
@@ -42,6 +43,8 @@ now sports
 now体育
 Now星影
 Now爆谷
+Now星影台
+Now爆谷台
 NOW新闻
 NOW财经 
 TVBS-Asia
