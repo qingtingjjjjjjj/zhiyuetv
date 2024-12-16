@@ -13,7 +13,7 @@
 天映经典,http://zb.xmzb.xyz/888.php?id=OOO天映经典
 东森电影,http://zb.xmzb.xyz/888.php?id=OOO东森电影
 美亚电影,http://zb.xmzb.xyz/888.php?id=OOO美亚电影
-POPC,http://zb.xmzb.xyz/888.php?id=OOOPOPC
+PopC,http://zb.xmzb.xyz/888.php?id=OOOPOPC
 澳门莲花,http://zb.xmzb.xyz/888.php?id=OOO澳门莲花
 中国电影,http://zb.xmzb.xyz/888.php?id=OOO中国电影
 东森洋片,http://zb.xmzb.xyz/888.php?id=OOO东森洋片
@@ -29,8 +29,8 @@ CINEMAX,http://zb.xmzb.xyz/888.php?id=OOOCINEMAX电影台
 BOO恐怖台,http://zb.xmzb.xyz/888.php?id=OOOBOO恐怖台
 Thri惊悚台,http://zb.xmzb.xyz/888.php?id=OOOThri惊悚台
 AXN,http://zb.xmzb.xyz/888.php?id=OOOAXN
-HBO,http://zb.xmzb.xyz/888.php?id=OOOHBO
-HBODH,http://zb.xmzb.xyz/888.php?id=OOOHBODH
+HBOHD,http://zb.xmzb.xyz/888.php?id=OOOHBO
+HBO Signature,http://zb.xmzb.xyz/888.php?id=OOOHBODH
 
 NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
